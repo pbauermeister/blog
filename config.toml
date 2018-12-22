@@ -1,0 +1,5 @@
+baseURL = "http://blog.bauermeister.digital/"
+languageCode = "en-us"
+title = "Pascal Bauermeister's Blog"
+theme = "ananke"
+disqusShortname = "blog-bauermeister-digital"
